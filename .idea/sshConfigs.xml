@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="47.111.121.158" id="4ecbc3a3-9d23-4408-a7e0-2073fd8254ed" keyPath="C:\Users\gostop54\.ssh\id_rsa" port="2021" nameFormat="DESCRIPTIVE" username="root" />
-    </configs>
-  </component>
-</project>
