@@ -4,8 +4,8 @@ Json Convert
 > 目录说明
 
     .
-    │  cli.php
-    ├─config                    #入口文件
+    │ cli.php                   #入口文件
+    ├─config                    
     │      config.php           #配置文件，含数据库配置，不过没用到偷懒了，=_=!
     ├─lib                       
     │      JsonReader.php       #读取Json文件的主要实现
